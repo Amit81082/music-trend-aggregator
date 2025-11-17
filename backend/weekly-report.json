@@ -1,0 +1,407 @@
+{
+  "generated_at": "2025-11-17T08:25:21.659Z",
+  "platform": "iTunes Search API",
+  "top_count": 50,
+  "top_tracks": [
+    {
+      "id": 1618057422,
+      "title": "Top Hits",
+      "artist": "MixxC",
+      "album": "Powerplay",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/c6/50/11/c6501135-967d-6f62-682f-a15e46c76049/mzaf_17149739891156574821.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/36/fc/43/36fc43cf-12cf-081a-ccae-e188b33586c6/artwork.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1438301150,
+      "title": "Winter Wonderland (Remastered 2006)",
+      "artist": "Bing Crosby",
+      "album": "Christmas Top Hits",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/44/6e/ff446ef5-046e-d772-70a9-c8e84f7e05f1/mzaf_6327213595074485835.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/c6/f9/dcc6f961-e32c-cc95-917b-5c6326b5316f/18UMGIM66445.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1438301147,
+      "title": "Joy To the World (Remastered 1999)",
+      "artist": "Nat \"King\" Cole",
+      "album": "Christmas Top Hits",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/25/5e/2f/255e2f91-1209-255f-a4e1-facf42bddbfa/mzaf_12540325029450404598.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/c6/f9/dcc6f961-e32c-cc95-917b-5c6326b5316f/18UMGIM66445.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 293337955,
+      "title": "Drift Away",
+      "artist": "Dobie Gray",
+      "album": "Top Hits - Drift Away - EP",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fc/ae/d9/fcaed9a9-6e9c-3070-0bc1-5ed0dea7df24/mzaf_7625052026903346575.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/0c/ff/9f/0cff9fba-744b-fc02-a003-b3082567d8c8/mzi.vuxfjuwh.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1746429323,
+      "title": "Burn, Burn, Burn",
+      "artist": "Zach Bryan",
+      "album": "TOP HITS - Vol. 1",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/58/62/e45862a8-9f23-98f7-455b-de38e5724cc5/mzaf_13625289771932679655.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/c3/bc/89c3bc86-2899-1266-14c3-70227ca50605/5059460298835.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 288088137,
+      "title": "Green Door",
+      "artist": "Jim Lowe",
+      "album": "Top Hits - Green Door",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a8/4b/82/a84b82fb-0332-fb24-c664-13043f323097/mzaf_13065745752008619414.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/cd/1d/4d/mzi.aigsprwu.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1664435369,
+      "title": "The Motto",
+      "artist": "Tiësto & Ava Max",
+      "album": "Charts 2023 - Radio Top Hits Deutschland",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/0d/ed/ef/0dedef85-d1e0-636c-9456-4142941b8abf/mzaf_11507681080634107077.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/69/92/79/69927943-095e-9919-19a3-99051fdb1b3b/5059460171343.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1438301154,
+      "title": "Merry Christmas Darling (Remix)",
+      "artist": "Carpenters",
+      "album": "Christmas Top Hits",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/b3/37/acb337d8-03aa-53e9-36b7-9a8b9a48fb1a/mzaf_1992397564531294754.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/c6/f9/dcc6f961-e32c-cc95-917b-5c6326b5316f/18UMGIM66445.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179411,
+      "title": "We Found Love (Workout Mix 128 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d9/b9/a4/d9b9a475-706d-014f-6a5c-da7bc4ca9e29/mzaf_18173148297792424806.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1711381997,
+      "title": "Drift Away (Single Version)",
+      "artist": "Dobie Gray",
+      "album": "Top Hits 70's",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b6/ad/8d/b6ad8d41-e331-c4fc-1131-303e3e3ba151/mzaf_13514758703083301539.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/e5/85/79e58507-d7ed-5651-c6e0-f62ecd25fc65/23UM1IM11838.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1804428172,
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "album": "Top Hits pra você curtir em 2025",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c5/7d/71/c57d718a-cf57-594c-b27d-a5ba302e347f/mzaf_15859572911711352203.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/cd/c4/6dcdc4f7-27d2-538f-54ee-8ff346cb1179/25UMGIM46959.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1438301146,
+      "title": "Little Saint Nick (1991 Remix)",
+      "artist": "The Beach Boys",
+      "album": "Christmas Top Hits",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/67/f9/9767f97f-b77a-c64b-6fca-e3e5cf7b68f1/mzaf_6716354682261399003.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/c6/f9/dcc6f961-e32c-cc95-917b-5c6326b5316f/18UMGIM66445.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1438301119,
+      "title": "Santa Tell Me",
+      "artist": "Ariana Grande",
+      "album": "Christmas Top Hits",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/6c/d0/0d6cd059-e679-8b12-b641-63dd237b8933/mzaf_6897077305895306385.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/c6/f9/dcc6f961-e32c-cc95-917b-5c6326b5316f/18UMGIM66445.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1664435375,
+      "title": "Left and Right",
+      "artist": "Charlie Puth & Jung Kook",
+      "album": "Charts 2023 - Radio Top Hits Deutschland",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/8d/9e/9c/8d9e9cd1-4e3e-ef1c-67fa-ed0bf39b7705/mzaf_8226823477234168289.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/69/92/79/69927943-095e-9919-19a3-99051fdb1b3b/5059460171343.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179412,
+      "title": "Sexy and I Know It (Workout Mix 130 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/66/de/14/66de1444-0a5c-2256-a2e4-fbcf5eafc63e/mzaf_13842184877428266344.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1438301141,
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "artist": "Dean Martin",
+      "album": "Christmas Top Hits",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/4b/f2/374bf2a1-7f79-df0b-b9e2-500f61e26b41/mzaf_1378028431891394652.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/c6/f9/dcc6f961-e32c-cc95-917b-5c6326b5316f/18UMGIM66445.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179419,
+      "title": "Party Rock Anthem (Workout Mix 130 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/d8/06/a8/d806a844-d8b3-bc36-910c-84bee796f941/mzaf_7232924342189054267.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1411250172,
+      "title": "Patiala Peg",
+      "artist": "Diljit Dosanjh",
+      "album": "Diljit Dosanjh – Top Hits - EP",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/90/27/29/902729fa-dba9-b87f-6403-a1bbbd57a9a9/mzaf_12696502100181256040.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/86/c5/69/86c569a4-f2ed-4adc-0003-3ea6cf38124b/8902633282445.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1711377241,
+      "title": "The Things We Do For Love",
+      "artist": "10cc",
+      "album": "Top Hits 70's",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c7/a8/76/c7a87642-27da-9463-b9fe-beb25d2e9ec0/mzaf_7906115044990819834.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/e5/85/79e58507-d7ed-5651-c6e0-f62ecd25fc65/23UM1IM11838.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179414,
+      "title": "Pumped Up Kicks (Workout Mix 132 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7b/90/8b/7b908ba2-afc1-44b5-a322-5e8daf3eb16c/mzaf_10498802770414412163.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1411052695,
+      "title": "Paranda",
+      "artist": "Kaur-B",
+      "album": "Top Hits - Baisakhi Special",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/88/27/a1/8827a194-34c6-826b-564d-2c40c20b3dab/mzaf_8590791083163022771.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/36/4b/09/364b095e-a5fb-b346-d189-efedc5d8abd7/8902633282728.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1746430238,
+      "title": "Life's a Dance",
+      "artist": "John Michael Montgomery",
+      "album": "TOP HITS - Vol. 1",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f4/f5/a9/f4f5a9ca-a6ab-c4a8-5ac1-082cb740bbb1/mzaf_9626991252176694997.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/c3/bc/89c3bc86-2899-1266-14c3-70227ca50605/5059460298835.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1302383029,
+      "title": "Rockstar (Workout Mix 160 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits, Vol. 16 - Workout Mixes",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4a/b8/77/4ab8773e-fa0d-6e79-7a7d-923dbeca8993/mzaf_12981125976676766525.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/80/ec/a5/80eca52c-2783-92aa-5e7e-070a3bac835d/35TopHitsWorkoutMixesVol15_3000.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1664436174,
+      "title": "Maybe You're the Problem",
+      "artist": "Ava Max",
+      "album": "Charts 2023 - Radio Top Hits Deutschland",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/9e/57/32/9e573201-1515-c8f4-93bd-6202b3a4be4b/mzaf_16968055190513775989.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/69/92/79/69927943-095e-9919-19a3-99051fdb1b3b/5059460171343.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1778057727,
+      "title": "Someday",
+      "artist": "Nickelback",
+      "album": "Top Hits: 2000 - 2020",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/a0/f0/7ba0f075-7228-d042-b661-37f084364422/mzaf_8290515334173726142.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/7c/ae/d57cae79-d4d6-f752-9d90-aa6335fe5c95/5059460346673.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 426082575,
+      "title": "F****n' Perfect",
+      "artist": "Dinner Music",
+      "album": "Dinnermusic Vol. 11 - Top Hits On Piano - EP",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/fa/02/f2/fa02f230-2c10-110c-0ff1-32ddc513357d/mzaf_9709954277932003231.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d4/29/04/d4290400-ee08-1bdd-4676-9f212ba74e80/mzi.dgdhaxbv.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179510,
+      "title": "Love You Like a Love Song (Workout Mix 128 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/6a/68/7b/6a687b39-b8ff-99c8-8451-b0918ef7a1a3/mzaf_9320102782084995523.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1746429692,
+      "title": "Human",
+      "artist": "Cody Johnson",
+      "album": "TOP HITS - Vol. 1",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fa/f8/b1/faf8b1b8-089a-c3cb-54d2-cf3693b2cb58/mzaf_11388233340201966753.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/c3/bc/89c3bc86-2899-1266-14c3-70227ca50605/5059460298835.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179539,
+      "title": "Set Fire to the Rain (Workout Mix 126 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/91/ab/00/91ab008b-da1c-6a76-f1d0-1ae79d456dd1/mzaf_7850327503945715531.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 967415076,
+      "title": "Take Me to Church (Workout Mix 129 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits, Vol. 9 - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a0/20/89/a0208924-a5f2-651d-2f80-7d6af38299c3/mzaf_4217590931447683975.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/65/9c/26/659c2681-3a67-50c9-9701-da155a3a60eb/35TopHitsWorkout9_2400.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1778056833,
+      "title": "All Summer Long",
+      "artist": "Kid Rock",
+      "album": "Top Hits: 2000 - 2020",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/60/6d/da606dec-6322-0ec1-bac3-6c0a00e42463/mzaf_9378744024412864260.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/7c/ae/d57cae79-d4d6-f752-9d90-aa6335fe5c95/5059460346673.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179413,
+      "title": "Someone Like You (Workout Mix 135 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/12/f4/71/12f4716d-e5a0-01df-ac12-94f0b309e181/mzaf_11620583115433860715.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179609,
+      "title": "Like a G6 (Workout Mix 128 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/70/f1/0e/70f10e2e-35d2-18e3-68b7-4d570affd594/mzaf_9604247243161321662.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1778054496,
+      "title": "Snow (Hey Oh)",
+      "artist": "Red Hot Chili Peppers",
+      "album": "Top Hits: 2000 - 2020",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/ca/34/01ca34a8-5c78-b124-983b-3169ba4dcbe0/mzaf_3918039084238191993.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/7c/ae/d57cae79-d4d6-f752-9d90-aa6335fe5c95/5059460346673.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179416,
+      "title": "Moves Like Jagger (Workout Mix 128 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/40/64/a9/4064a9ed-7265-9ee3-424c-19e6b9bd5bf4/mzaf_9389835229699886991.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1664435916,
+      "title": "House of Memories",
+      "artist": "Panic! At the Disco",
+      "album": "Charts 2023 - Radio Top Hits Deutschland",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/f8/66/e1/f866e190-008b-1599-9cd4-b999eae1d4cf/mzaf_3926488402753776623.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/69/92/79/69927943-095e-9919-19a3-99051fdb1b3b/5059460171343.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179422,
+      "title": "It Girl (Workout Mix 126 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/4c/6a/71/4c6a71e9-7b7e-72d4-7dbc-5ff9c59fd9ae/mzaf_14490727309407357098.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1518763579,
+      "title": "La Pregunta",
+      "artist": "J Alvarez",
+      "album": "Top Hits",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/39/a5/83/39a583df-994b-dab3-f53f-4a574500c46a/mzaf_11347570062273877613.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/55/22/64/552264d6-a10b-9ab8-f769-8bf819eba12a/195081787848.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1746430412,
+      "title": "You Don’t Want That Smoke",
+      "artist": "Bailey Zimmerman",
+      "album": "TOP HITS - Vol. 1",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/08/3c/20/083c2089-9511-d56a-7b93-141b9e74fc3e/mzaf_11873590643788332658.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/89/c3/bc/89c3bc86-2899-1266-14c3-70227ca50605/5059460298835.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1518763586,
+      "title": "Quiero Olvidar",
+      "artist": "J Alvarez",
+      "album": "Top Hits",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/00/5f/0a/005f0af0-3abd-76ad-38b5-ccf692b844b9/mzaf_11526872494314978475.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/55/22/64/552264d6-a10b-9ab8-f769-8bf819eba12a/195081787848.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 297724045,
+      "title": "Under the Boardwalk",
+      "artist": "The Drifters",
+      "album": "Gusto Top Hits: Under the Boardwalk (Remastered) - EP",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/f0/1e/fb/f01efba6-2ac5-4bde-21eb-edded6992794/mzaf_7165001954384660465.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/d4/ab/1c/mzi.uqbhxqut.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179415,
+      "title": "Without You (Workout Mix 128 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/9e/e4/909ee4e8-9760-d321-527b-b607bc9b85d4/mzaf_9644035475313907587.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1804427971,
+      "title": "Sailor Song",
+      "artist": "Gigi Perez",
+      "album": "Top Hits pra você curtir em 2025",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/89/83/83/8983835e-cf34-8c0a-7e6d-eb4fb5fde11f/mzaf_7207411935951122685.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/cd/c4/6dcdc4f7-27d2-538f-54ee-8ff346cb1179/25UMGIM46959.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1657147093,
+      "title": "Top Hits",
+      "artist": "Stadtorchester Andernach",
+      "album": "50 Jahre Rock- und Popgeschichte",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/b9/fe/2f/b9fe2f91-aa13-8819-2254-2729e47e4eac/mzaf_10214905935730008357.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/af/12/c4/af12c4a6-5e18-2d04-2097-cb1418f81a0c/cover_4099885299636.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 490179418,
+      "title": "Stereo Hearts (Workout Mix 126 BPM)",
+      "artist": "Power Music Workout",
+      "album": "35 Top Hits - Workout Mixes (Unmixed Workout Music Ideal for Gym, Jogging, Running, Cycling, Cardio and Fitness)",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/89/9a/b2/899ab2fb-6d42-4f47-2325-95e3f1a0a100/mzaf_3640362387927121724.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/f3/b9/7e/mzi.jcsdwmrf.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1438301167,
+      "title": "Last Christmas",
+      "artist": "Ariana Grande",
+      "album": "Christmas Top Hits",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/1e/6f/791e6f5d-0c81-1dda-a23e-051e36dbb486/mzaf_5688557705118919269.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/dc/c6/f9/dcc6f961-e32c-cc95-917b-5c6326b5316f/18UMGIM66445.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 953436613,
+      "title": "Son of a Preacher Man",
+      "artist": "Dusty Springfield",
+      "album": "British Pop Top Hits Vol. 1",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/e8/63/9e/e8639eea-bc81-6402-a1af-a1a5c4771431/mzaf_10042335711825091595.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/d8/94/37/d894377d-1004-a998-e0d1-8580268c4669/cover.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1664436171,
+      "title": "Better Alone",
+      "artist": "Benson Boone",
+      "album": "Charts 2023 - Radio Top Hits Deutschland",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/3b/ef/9c/3bef9c3c-94a9-aa50-a091-77a6c503464a/mzaf_1506986130232861729.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/69/92/79/69927943-095e-9919-19a3-99051fdb1b3b/5059460171343.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1711379371,
+      "title": "I Feel Love",
+      "artist": "Donna Summer",
+      "album": "Top Hits 70's",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e4/01/3a/e4013ae2-e2b8-d431-a786-9ceaeff8d6db/mzaf_6481101685399816720.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/79/e5/85/79e58507-d7ed-5651-c6e0-f62ecd25fc65/23UM1IM11838.rgb.jpg/100x100bb.jpg"
+    },
+    {
+      "id": 1411050734,
+      "title": "Daang",
+      "artist": "Geeta Zaildar",
+      "album": "Top Hits - Baisakhi Special",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/11/ba/c1/11bac14e-b19f-a5e1-9dce-4835a0ed72f4/mzaf_12390958568883553293.plus.aac.p.m4a",
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/36/4b/09/364b095e-a5fb-b346-d189-efedc5d8abd7/8902633282728.jpg/100x100bb.jpg"
+    }
+  ]
+}
