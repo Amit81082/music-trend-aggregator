@@ -70,7 +70,7 @@ External API (iTunes Search API)
     }
   ]
 }
-
+```
 ---
 ### 4.2 GET /health
 
@@ -137,4 +137,4 @@ npm run dev
 Author: Amit Maurya
  GitHub: https://github.com/Amit81082
 
-```
+
