@@ -1,5 +1,5 @@
 // backend/index.js
-// Simple Express server that proxies Deezer trending tracks
+// Simple Express server that proxies itunes trending tracks
 const express = require("express");
 const axios = require("axios");
 const cors = require("cors");
@@ -16,7 +16,7 @@ app.get("/", (req, res) => {
 
 app.get("/trends", async (req, res) => {
   try {
-    // Deezer chart: top tracks globally
+    // itunes chart: top tracks globally
     const API = "https://itunes.apple.com/search?term=top%20hits&entity=song";
     const response = await axios.get(API, { timeout: 10000 });
     // data.data is an array of track objects
