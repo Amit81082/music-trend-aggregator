@@ -10,6 +10,10 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 5000;
 
+app.get("/", (req, res) => {
+  res.json({ ok: true, message: "Backend running" });
+})
+
 app.get("/trends", async (req, res) => {
   try {
     // Deezer chart: top tracks globally
