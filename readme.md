@@ -113,23 +113,25 @@ External API (iTunes Search API)
 8. How to Run Locally
 
 ### Backend
-
+```bash
 cd backend
 npm install
 node index.js
+```
 # Open <http://localhost:5000/trends>
 
 ### Generate Weekly Report
-
+```
 cd backend
 node report.js
 # weekly-report.json generated
-
+```
 ### Frontend
-
+```
 cd frontend
 npm install
 npm run dev
+```
 # Open <http://localhost:5173>
 
 9. Contact
